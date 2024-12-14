@@ -24,8 +24,6 @@ Design a clean, modern, and responsive UI.
 
 #Screens of Application
 
-![Intro Page](screenshots/image1.png)
+![Intro Page](screenshots/scr1.png)
 #
-![Intro Page](screenshots/image2.png)
-#
-![Intro Page](screenshots/image3.png)
+![Intro Page](screenshots/scr2.png)
